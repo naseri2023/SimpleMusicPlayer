@@ -5,8 +5,13 @@ This project is a simple web-based music player built using HTML, CSS, and JavaS
 Key Features:
 
 Play/Pause: Users can easily start or pause the playback of music.
+
 Next/Previous: Allows navigation between tracks in a predefined playlist.
+
 Speed Control: Users can increase the playback speed of the current track.
+
 Seek Functionality: Buttons enable jumping forward or backward by 5 seconds within a track.
+
 Responsive Design: The player adapts to different screen sizes, making it accessible on both desktop and mobile devices.
+
 This project serves as a foundation for building more advanced music players and can be extended with additional features such as volume control, progress bars, and playlist management.
